@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emilio/Developer/assignments/assignment-1/QuizProgram/QuizProgram.csproj": {}
+  },
+  "projects": {
+    "/Users/emilio/Developer/assignments/assignment-1/QuizProgram/QuizProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emilio/Developer/assignments/assignment-1/QuizProgram/QuizProgram.csproj",
+        "projectName": "QuizProgram",
+        "projectPath": "/Users/emilio/Developer/assignments/assignment-1/QuizProgram/QuizProgram.csproj",
+        "packagesPath": "/Users/emilio/.nuget/packages/",
+        "outputPath": "/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emilio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-arm64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-arm64",
+              "version": "[8.0.1, 8.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

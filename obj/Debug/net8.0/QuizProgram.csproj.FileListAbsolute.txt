@@ -1,0 +1,14 @@
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/bin/Debug/net8.0/QuizProgram
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/bin/Debug/net8.0/QuizProgram.deps.json
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/bin/Debug/net8.0/QuizProgram.runtimeconfig.json
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/bin/Debug/net8.0/QuizProgram.dll
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/bin/Debug/net8.0/QuizProgram.pdb
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/QuizProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/QuizProgram.AssemblyInfoInputs.cache
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/QuizProgram.AssemblyInfo.cs
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/QuizProgram.csproj.CoreCompileInputs.cache
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/QuizProgram.dll
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/refint/QuizProgram.dll
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/QuizProgram.pdb
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/QuizProgram.genruntimeconfig.cache
+/Users/emilio/Developer/assignments/assignment-1/QuizProgram/obj/Debug/net8.0/ref/QuizProgram.dll
