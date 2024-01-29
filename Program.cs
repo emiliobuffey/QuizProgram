@@ -3,6 +3,14 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 
+/*
+    The project is a console-based quiz program written in C# for the Apple Mac M1 environment using Visual Studio Code. 
+    It allows users to take quizzes loaded from a specified file, providing multiple-choice questions with one correct answer. 
+    The program utilizes file I/O for reading quiz questions from a text file, implements error handling, and includes features such as
+    random question selection, user input validation, and quiz session summary reporting.
+*/
+
+
 class QuizProgram
 {
     static void Main()

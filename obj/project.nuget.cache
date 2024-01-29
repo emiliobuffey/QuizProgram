@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Lsw/t/Eu2kCzdKHQkuA0tkBZ46xT8sB461pk4W434oV7eG8UnSuZ9p5SlsbNnMv4FT5utXw2U9WbB6ZX29iDYg==",
+  "dgSpecHash": "FA1g53gXBTsOT1gVxL8wt4urS3Gh6zTdWxtqnE96+LjyajGavkILu7vZUKUAs0m5YouCANuV1+ag756/p8utqw==",
   "success": true,
   "projectFilePath": "/Users/emilio/Developer/assignments/assignment-1/QuizProgram/QuizProgram.csproj",
   "expectedPackageFiles": [
-    "/Users/emilio/.nuget/packages/microsoft.netcore.app.runtime.osx-arm64/8.0.1/microsoft.netcore.app.runtime.osx-arm64.8.0.1.nupkg.sha512",
     "/Users/emilio/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.1/microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
-    "/Users/emilio/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-arm64/8.0.1/microsoft.aspnetcore.app.runtime.osx-arm64.8.0.1.nupkg.sha512",
     "/Users/emilio/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.1/microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
     "/Users/emilio/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.1/microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
   ],
